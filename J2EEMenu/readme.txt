@@ -1,0 +1,1 @@
+Dynamic web project with login and menu. No database used.
